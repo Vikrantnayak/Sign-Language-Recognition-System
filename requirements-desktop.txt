@@ -1,0 +1,7 @@
+# Additional dependencies for Desktop OpenCV App and Model Training
+-r requirements.txt
+pyautogui>=0.9.54
+scikit-learn>=1.3.0
+seaborn>=0.12.0
+matplotlib>=3.7.0
+pandas>=2.0.0
