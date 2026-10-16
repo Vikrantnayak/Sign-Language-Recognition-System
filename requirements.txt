@@ -1,10 +1,11 @@
 # Core dependencies for Streamlit Cloud deployment - Python 3.12 compatible
-streamlit>=1.33.0
-streamlit-webrtc>=0.47.0
-av>=10.0.0
-opencv-python-headless>=4.8.0
-mediapipe>=0.10.0
-numpy>=1.24.0,<2.0
-pillow>=10.0.0
-python-dotenv>=1.0.0
-tensorflow>=2.13.0
+streamlit
+streamlit-webrtc==0.47.9
+av
+tensorflow==2.17.0
+mediapipe==0.10.21
+numpy==1.26.4
+opencv-contrib-python==4.10.0.84
+protobuf==4.25.8
+pillow
+python-dotenv
