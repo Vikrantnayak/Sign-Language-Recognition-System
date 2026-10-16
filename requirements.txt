@@ -1,4 +1,5 @@
 # Core dependencies for Streamlit Cloud deployment - Python 3.12 compatible
+
 streamlit
 streamlit-webrtc==0.47.9
 av
