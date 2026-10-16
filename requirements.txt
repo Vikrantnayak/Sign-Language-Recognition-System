@@ -10,3 +10,6 @@ opencv-contrib-python==4.10.0.84
 protobuf==4.25.8
 pillow
 python-dotenv
+streamlit==1.41.1
+streamlit-webrtc==0.47.9
+tornado==6.4.2
